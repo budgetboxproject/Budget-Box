@@ -198,7 +198,7 @@ form input::placeholder {
 
 @media only screen and (max-width: 425px) {
   .landing-page {
-    width: 122%;
+    width: 125%;
   }
 
   .landing-page form {
